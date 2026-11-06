@@ -1,0 +1,10 @@
+{
+  "name": "fitness-activity-tracker",
+  "version": "1.0.0",
+  "description": "Beginner-friendly fitness activity tracker using HTML, CSS, JavaScript and Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
